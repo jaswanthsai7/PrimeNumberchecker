@@ -8,7 +8,6 @@ public class PrimeNumberChecker {
 	 * @return true if the number is prime, false otherwise.
 	 */
 	public boolean isPrime(int number) {
-
 		int m = number / 2;
 		if (number < 2) {
 			return false;

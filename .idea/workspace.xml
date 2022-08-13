@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3e4ca6-a250-46d2-9150-594492e466b1" name="Changes" comment="added code to check prime number or not in PrimeNumberChecker.java" />
+    <list default="true" id="be3e4ca6-a250-46d2-9150-594492e466b1" name="Changes" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +150,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660372868634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added code to check prime number or not in PrimeNumberChecker.java">
+      <created>1660372951278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660372951278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final commit">
+      <created>1660372973346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660372973346</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final commit">
+      <created>1660373049408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660373049408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +188,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="added code to check prime number or not in PrimeNumberChecker.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code to check prime number or not in PrimeNumberChecker.java" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
